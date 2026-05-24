@@ -1,0 +1,19 @@
+{
+  "name": "discord-join-unmute-bot",
+  "version": "1.0.0",
+  "description": "Bot Discord qui démette et déconnecte automatiquement les utilisateurs qui rejoignent un salon vocal spécifique",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "keywords": ["discord", "bot", "voice"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.3.1"
+  }
+}
+
+
+
